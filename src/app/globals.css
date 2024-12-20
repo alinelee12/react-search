@@ -1,0 +1,26 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --background: #ffffff;
+  --foreground: #171717;
+  --primary: #4240ff;
+  --secondary: #363455;
+}
+body {
+  @apply overflow-x-hidden;
+  color: var(--foreground);
+  background: var(--background);
+  font-family: "Montserrat", sans-serif;
+}
+a {
+  word-wrap: break-word;
+  color: var(--primary);
+}
+
+p,
+h2,
+h1 {
+  word-wrap: break-word;
+}
