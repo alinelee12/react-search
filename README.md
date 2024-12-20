@@ -51,7 +51,6 @@ O objetivo é fornecer uma interface limpa, intuitiva e responsiva para melhorar
 ### Passo a passo
 
 1. **Clone o repositório:**
-   ```bash
 git clone https://github.com/seu-usuario/react-search/.git
 cd nome-do-projeto
 
