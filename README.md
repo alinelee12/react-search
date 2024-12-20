@@ -68,6 +68,8 @@ yarn dev
 4. **Inicie o servidor de desenvolvimento:**
 http://localhost:3000
 
+---
+
 ## 👥 Contato
 Se você tiver alguma dúvida ou sugestão, sinta-se à vontade para entrar em contato:
 
